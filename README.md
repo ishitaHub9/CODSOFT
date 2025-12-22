@@ -19,7 +19,7 @@ https://www.kaggle.com/c/titanic/data
 - Scikit-learn
 - Google Colab
   
-  ### Project Structure
+### Project Structure
 - Titanic_Survival_Predict.ipynb
 - README.md
 
