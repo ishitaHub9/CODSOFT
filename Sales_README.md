@@ -40,7 +40,7 @@ The dataset contains advertising budgets and corresponding sales values.
 - Helps interpret the relationship between advertising spend and sales
 
 
-## Workflow
+### Workflow
 - Import required libraries
 - Load and explore the dataset
 - Perform data preprocessing
