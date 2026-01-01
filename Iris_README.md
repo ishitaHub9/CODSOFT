@@ -1,19 +1,39 @@
 ---
 
+## CODSOFT
+
+## CodSoft Data Science Internship
+
 ## Task: Iris Flower Classification
 
 ### Objective
 To build a machine learning model that can classify Iris flowers into three species — Setosa, Versicolor, and Virginica — based on their sepal and petal measurements.
 
 ### Dataset
-- Iris Flower Dataset
-- Features:
-  - Sepal Length
-  - Sepal Width
-  - Petal Length
-  - Petal Width
-- Target:
-  - Species
+
+Iris Flower Dataset (Public):  
+https://www.kaggle.com/datasets/uciml/iris
+
+The dataset contains measurements of iris flowers categorized into three species.
+
+
+### Features:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+### Target:
+- Species
+
+### Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ### Model Used
 - Logistic Regression  
