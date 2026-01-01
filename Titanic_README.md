@@ -1,7 +1,7 @@
 # CODSOFT
 # CodSoft Data Science Internship
 
-## Task 1: Titanic Survival Analysis
+## Task: Titanic Survival Analysis
 
 ### Objective
 Analyze the Titanic passenger dataset to perform data cleaning, exploratory data analysis (EDA), and extract meaningful insights.
